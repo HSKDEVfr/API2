@@ -1,0 +1,26 @@
+API = "true"
+
+[
+Type = "Important"
+Name = "Down time"
+Info = "This Site will be closed a the 10.10 at 20 o clock for maintenace Europe time and will be open again at 22 o clock Europe time"
+Color = "Rot"
+]
+
+[
+Type = "News"
+Name = "New Support Team"
+Info = "We appreciate your support"
+]
+
+[
+Type = "News"
+Name = "Website"
+Info = "We just made our new Website !"
+]
+
+[
+Type = "Update"
+Name = "Latest updates"
+Info = "No updates at the moment"
+]
