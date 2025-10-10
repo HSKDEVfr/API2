@@ -3,8 +3,8 @@ API = "true"
 [
 Type = "Important"
 Name = "Down time"
-Info = "This Site will be closed a the 10.10 at 20 o clock for maintenace Europe time and will be open again at 22 o clock Europe time"
-Color = "Rot"
+Info = "This Site will be closed a the 10.12 at 20 o clock for maintenace Europe time and will be open again at 21 o clock Europe time"
+Color = "Gelb"
 ]
 
 [
