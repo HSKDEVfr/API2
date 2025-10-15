@@ -3,7 +3,7 @@ API = "true"
 [ 
 Type = "Very Important"
 Name = "Name"
-Info = "Next Shutdown at the 18.10 till 20.10" 
+Info = "Next Shutdown at the 17.11 till 19.10" 
 Farbe = "Grün" 
 ]
 
@@ -11,7 +11,7 @@ Farbe = "Grün"
 Type = "Important"
 Name = "Down time"
 Info = "This Site will be closed a the 13.12 at 20 o clock for maintenace Europe time and will be open again at 21 o clock Europe time"
-Color = "Gelb"
+Color = "Rot"
 ]
 
 [
